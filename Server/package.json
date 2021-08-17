@@ -1,0 +1,20 @@
+{
+  "name": "diary-app",
+  "version": "1.0.0",
+  "description": "Server for diary app",
+  "main": "./src/App.js",
+  "scripts": {
+    "start": "nodemon ./src/App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azhar Naeem",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "nodemon": "^2.0.12",
+    "sequelize": "^6.6.5"
+  }
+}

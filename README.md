@@ -6,7 +6,7 @@ This is a Full stack Diaries App with complete user functionalities such as : Lo
 ## Available Scripts
 
 In the main folder run
-### `yarn start` OR ### `npm start`
+### `yarn start` OR  `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -27,15 +27,15 @@ Open [http://localhost:8080] to view it in the browser.
 
 The App will look like
 
-![login](./images/Login.png)
-![signup](./images/Signup.png)
-![diary](./images/Diaries.png)
-![entry](./images/Entry.png)
-
+![login](./images/Login.png)\
+![signup](./images/Signup.png)\
+![diary](./images/Diaries.png)\
+![entry](./images/Entry.png)\
+\
 Mobile view
-
-![login Phone](./images/loginPhone.png)
-![signup Phone](./images/signupPhone.png)
-![diary Phone](./images/diariesPhone.png)
-![entry Phone](./images/entryPhone.png)
+\
+![login Phone](./images/loginPhone.png)\
+![signup Phone](./images/signupPhone.png)\
+![diaryPhone](./images/diariesphone.png)\
+![entry Phone](./images/entryPhone.png)\
 
